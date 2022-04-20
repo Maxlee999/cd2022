@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 張程翔是虎尾馬斯克', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': 'midterm', 'text': 'coppeliasim uArm 作動影片: \n \n', 'tags': '', 'url': 'midterm.html'}]};
