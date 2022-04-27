@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923117 blog - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T20:21:40+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./W6_40923117.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-27T20:21:40+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-03-30:./W6_40923117.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923117 blog - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T22:08:58+08:00</updated><entry><title>W7 blog</title><link href="./W7.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-27T22:08:58+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./W7.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+
+
+&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>W8 blog</title><link href="./W8.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-27T22:05:10+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./W8.html</id><summary type="html">&lt;p&gt;w8 任務&lt;/p&gt;
+&lt;p&gt;完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. 各組員需將零組件繪製過程與 CoppeliaSim 操控流程及心得, 寫為 Pelican Blog 與 Reveal.js 簡報&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w8 任務&lt;/p&gt;
+&lt;p&gt;完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. 各組員需將零組件繪製過程與 CoppeliaSim 操控流程及心得, 寫為 Pelican Blog 與 Reveal.js 簡報&lt;/p&gt;
+
+
+&lt;p&gt;將uArm組合後轉為STL格式後匯入coppeliasim將&lt;a href="https://youtu.be/Bpzl5X8-zt0"&gt;連桿與軸做結合&lt;/a&gt;與設定子母關係 讓三軸能作動 &lt;/p&gt;
+&lt;p&gt;心得:我是分配到在onshape組立跟coppeliasim中組立，組立的過程與之前cd2021的meArm差不多&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./W6_40923117.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-27T21:36:38+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-03-30:./W6_40923117.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
