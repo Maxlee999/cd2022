@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': 'midterm', 'text': 'coppeliasim uArm 作動影片: \n \n', 'tags': '', 'url': 'midterm.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': 'midterm', 'text': 'coppeliasim uArm wink: \n \n \nloop="loop" muted="" playsinline=""autoplay="autoplay">\n \n \n   \n \n \n \n \n 將上面的過程依序設子母關係，組立過程如下 \n coppeliasim uArm 組立影片: \n \n coppeliasim uArm 作動影片: \n \n', 'tags': '', 'url': 'midterm.html'}]};
