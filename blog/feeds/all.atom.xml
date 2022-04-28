@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923117 blog</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T22:15:28+08:00</updated><entry><title>W7 blog</title><link href="./W7.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-27T22:08:58+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./W7.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
-&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
-&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
-
-
-&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>W8 blog</title><link href="./W8.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-27T22:15:28+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./W8.html</id><summary type="html">&lt;p&gt;w8 任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923117 blog</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-28T14:19:24+08:00</updated><entry><title>W8 blog</title><link href="./W8.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-27T22:15:28+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./W8.html</id><summary type="html">&lt;p&gt;w8 任務&lt;/p&gt;
 &lt;p&gt;完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. 各組員需將零組件繪製過程與 CoppeliaSim 操控流程及心得, 寫為 Pelican Blog 與 Reveal.js 簡報&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w8 任務&lt;/p&gt;
 &lt;p&gt;完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. 各組員需將零組件繪製過程與 CoppeliaSim 操控流程及心得, 寫為 Pelican Blog 與 Reveal.js 簡報&lt;/p&gt;
 
 
 &lt;p&gt;將uArm組合後轉為STL格式後匯入coppeliasim將&lt;a href="https://youtu.be/Bpzl5X8-zt0"&gt;連桿與軸做結合&lt;/a&gt;與設定子母關係 讓三軸能作動 &lt;/p&gt;
-&lt;p&gt;心得:我是分配到在onshape組立跟coppeliasim中組立，組立的過程與之前cd2021的meArm差不多&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./W6_40923117.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-27T21:36:38+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-03-30:./W6_40923117.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+&lt;p&gt;心得:我是分配到在onshape組立跟coppeliasim中組立，組立的過程與之前cd2021的meArm差不多&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>W7 blog</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-28T14:07:42+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./w7_summary.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+
+
+&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>W7 blog</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-27T21:00:00+08:00</published><updated>2022-04-28T14:07:42+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./w7_summary.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+
+
+&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry><entry><title>W8 blog</title><link href="./midterm.html.html" rel="alternate"></link><published>2022-04-27T15:00:00+08:00</published><updated>2022-04-28T14:19:24+08:00</updated><author><name>yen</name></author><id>tag:None,2022-04-27:./midterm.html.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;W8工作分配&lt;/h2&gt;
+&lt;p&gt;40923120、40923147、40823132 → 繪製零件&lt;/p&gt;
+&lt;p&gt;440923136 → Solvespace繪製零件&lt;/p&gt;
+&lt;p&gt;40923157 → NX1980繪製零件&lt;/p&gt;
+&lt;p&gt;40923117、40923118 → 組合、前三軸動作&lt;/p&gt;
+&lt;p&gt;W8 作業&lt;/p&gt;
+&lt;p&gt;將uArm組合後轉為STL格式後匯入coppeliasim將&lt;a href="https://youtu.be/Bpzl5X8-zt0"&gt;連桿與軸做結合&lt;/a&gt;與設定子母關係 讓三軸能作動 &lt;/p&gt;
+&lt;p&gt;心得:我是分配到在onshape組立跟coppeliasim中組立，組立的過程與之前cd2021的meArm差不多&lt;/p&gt;</content><category term="Misc"></category><category term="W8_40923117"></category></entry><entry><title>W7 blog</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-27T15:00:00+08:00</published><updated>2022-04-28T14:19:24+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./w7_summary.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+
+
+&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="W7_40923117"></category></entry><entry><title>W7 blog</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-27T15:00:00+08:00</published><updated>2022-04-28T14:19:24+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-04-27:./w7_summary.html</id><summary type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W7&lt;/p&gt;
+&lt;p&gt;利用Leo創個人blog&lt;/p&gt;
+
+
+&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;</content><category term="Misc"></category><category term="W7_40923117"></category></entry><entry><title>W6 blog</title><link href="./W6_40923117.html.html" rel="alternate"></link><published>2022-03-30T10:30:00+08:00</published><updated>2022-04-28T14:19:24+08:00</updated><author><name>40923117</name></author><id>tag:None,2022-03-30:./W6_40923117.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
@@ -21,7 +48,10 @@
 &lt;p&gt;Python 可以用來開發網際版的內容管理系統 CMSiMDE&lt;/p&gt;
 &lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
 &lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
-&lt;h2&gt;W7 blog&lt;/h2&gt;
-&lt;p&gt;各組員工作分配以及使用模擬軟體進行模擬&lt;/p&gt;
-&lt;h2&gt;W8 blog&lt;/h2&gt;
-&lt;p&gt;將uArm組合後轉為STL格式後匯入coppeliasim將&lt;a href="https://youtu.be/Bpzl5X8-zt0"&gt;連桿與軸做結合&lt;/a&gt;與設定子母關係 讓三軸能作動 花了蠻多時間才弄好&lt;/p&gt;</content><category term="Misc"></category><category term="40923117"></category></entry></feed>
+&lt;h2&gt;Flutter&lt;/h2&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;
+&lt;h2&gt;前幾週的內容&lt;/h2&gt;
+&lt;p&gt;1.網站的建立是照著同學的&lt;a href="https://www.youtube.com/watch?v=KvxfZZtoF40"&gt;教學影片&lt;/a&gt;，並帶著組員一跟著做。
+2.分配影片&lt;a href="https://40923120.github.io/cd2022ag7/content/W4.html"&gt;作業&lt;/a&gt;
+3.在大組網站中加入一些基本的git的&lt;a href="https://40923120.github.io/cd2022ag7/content/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99.html"&gt;教學&lt;/a&gt;，讓不太了解的組員學習。
+4.完成自己被分配到的&lt;a href="https://40923120.github.io/cd2022ag7/content/w4(20).html"&gt;影片作業&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="W6_40923117"></category></entry></feed>
